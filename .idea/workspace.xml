@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fd5d2eaa-8557-44a8-ae99-8d508edd6b4a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/list/operacaobasica/exercicio01/Descricao.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/list/operacaobasica/exercicio02/Descricao.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/list/ordenacao/exercicio01/Descricao.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/list/ordenacao/exercicio02/Descricao.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/list/pesquisa/exercicio01/Descricao.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/list/pesquisa/exercicio02/Descricao.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2kF1iPg0tEmuzfvqwDpi7HCCmNe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/kelvi/Desktop/projetos/estudos-java-collections/src/main/java/com/estudo/collection/list/pesquisa/exercicio02"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kelvi\Desktop\projetos\estudos-java-collections\src\main\java\com\estudo\collection\list\pesquisa\exercicio02" />
+      <recent name="C:\Users\kelvi\Desktop\projetos\estudos-java-collections\src\main\java\com\estudo\collection\list\pesquisa\exercicio01" />
+      <recent name="C:\Users\kelvi\Desktop\projetos\estudos-java-collections\src\main\java\com\estudo\collection\list\ordenacao\exercicio02" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kelvi\Desktop\projetos\estudos-java-collections\src\main\java\com\estudo\collection\list\exercicio01" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd5d2eaa-8557-44a8-ae99-8d508edd6b4a" name="Changes" comment="" />
+      <created>1722864638688</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722864638688</updated>
+    </task>
+    <servers />
+  </component>
+</project>

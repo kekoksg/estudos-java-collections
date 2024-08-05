@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd5d2eaa-8557-44a8-ae99-8d508edd6b4a" name="Changes" comment="operacaobasica - exercicio 01 finalizado">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/list/operacaobasica/exercicio01/ListaTarefa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/list/operacaobasica/exercicio01/ListaTarefaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/list/operacaobasica/exercicio01/Tarefa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/list/operacaobasica/exercicio02/CarrinhoDeCompras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/list/operacaobasica/exercicio02/CarrinhoDeComprasTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/list/operacaobasica/exercicio02/Item.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/estudo/collection/list/operacaobasica/exercicio01/Descricao.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/list/operacaobasica/exercicio01/Descricao.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +61,54 @@
       <recent name="C:\Users\kelvi\Desktop\projetos\estudos-java-collections\src\main\java\com\estudo\collection\list\exercicio01" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ListaTarefaTest.testImprimeDescricoesTarefas">
+  <component name="RunManager" selected="JUnit.CarrinhoDeComprasTest">
+    <configuration name="CarrinhoDeComprasTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="estudos-java-collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.estudo.collection.list.operacaobasica.exercicio02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.estudo.collection.list.operacaobasica.exercicio02" />
+      <option name="MAIN_CLASS_NAME" value="com.estudo.collection.list.operacaobasica.exercicio02.CarrinhoDeComprasTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarrinhoDeComprasTest.testCalcularValorTotalCarrinhoVazio" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="estudos-java-collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.estudo.collection.list.operacaobasica.exercicio02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.estudo.collection.list.operacaobasica.exercicio02" />
+      <option name="MAIN_CLASS_NAME" value="com.estudo.collection.list.operacaobasica.exercicio02.CarrinhoDeComprasTest" />
+      <option name="METHOD_NAME" value="testCalcularValorTotalCarrinhoVazio" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarrinhoDeComprasTest.testRemoverItemComCarrinhoVazio" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="estudos-java-collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.estudo.collection.list.operacaobasica.exercicio02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.estudo.collection.list.operacaobasica.exercicio02" />
+      <option name="MAIN_CLASS_NAME" value="com.estudo.collection.list.operacaobasica.exercicio02.CarrinhoDeComprasTest" />
+      <option name="METHOD_NAME" value="testRemoverItemComCarrinhoVazio" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ListaTarefaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="estudos-java-collections" />
       <extension name="coverage">
@@ -97,6 +142,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CarrinhoDeComprasTest" />
+        <item itemvalue="JUnit.CarrinhoDeComprasTest.testRemoverItemComCarrinhoVazio" />
+        <item itemvalue="JUnit.CarrinhoDeComprasTest.testCalcularValorTotalCarrinhoVazio" />
         <item itemvalue="JUnit.ListaTarefaTest.testImprimeDescricoesTarefas" />
         <item itemvalue="JUnit.ListaTarefaTest" />
       </list>
@@ -139,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1722876951695</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="operacaobasica - exercicio 01 finalizado">
+      <created>1722887295143</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722887295143</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

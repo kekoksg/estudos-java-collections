@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd5d2eaa-8557-44a8-ae99-8d508edd6b4a" name="Changes" comment="pesquisa - exercicio 01 finalizado">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/list/pesquisa/exercicio02/SomaNumeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/list/pesquisa/exercicio02/SomaNumerosTest.java" afterDir="false" />
+    <list default="true" id="fd5d2eaa-8557-44a8-ae99-8d508edd6b4a" name="Changes" comment="pesquisa - exercicio 02 finalizado">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/list/ordenacao/exercicio01/ComparatorPorAltura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/list/ordenacao/exercicio01/OrdenacaoPessoas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/list/ordenacao/exercicio01/Pessoa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +52,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.estudo.collection.list.ordenacao.exercicio01" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\kelvi\Desktop\projetos\estudos-java-collections\src\main\java\com\estudo\collection\list\pesquisa\exercicio02" />
       <recent name="C:\Users\kelvi\Desktop\projetos\estudos-java-collections\src\main\java\com\estudo\collection\list\pesquisa\exercicio01" />
@@ -60,7 +64,7 @@
       <recent name="C:\Users\kelvi\Desktop\projetos\estudos-java-collections\src\main\java\com\estudo\collection\list\exercicio01" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SomaNumerosTest">
+  <component name="RunManager" selected="JUnit.OrdenacaoPessoasTest">
     <configuration name="CarrinhoDeComprasTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="estudos-java-collections" />
       <extension name="coverage">
@@ -72,22 +76,6 @@
       <option name="PACKAGE_NAME" value="com.estudo.collection.list.operacaobasica.exercicio02" />
       <option name="MAIN_CLASS_NAME" value="com.estudo.collection.list.operacaobasica.exercicio02.CarrinhoDeComprasTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CarrinhoDeComprasTest.testRemoverItemComCarrinhoVazio" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="estudos-java-collections" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.estudo.collection.list.operacaobasica.exercicio02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.estudo.collection.list.operacaobasica.exercicio02" />
-      <option name="MAIN_CLASS_NAME" value="com.estudo.collection.list.operacaobasica.exercicio02.CarrinhoDeComprasTest" />
-      <option name="METHOD_NAME" value="testRemoverItemComCarrinhoVazio" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -123,6 +111,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OrdenacaoPessoasTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="estudos-java-collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.estudo.collection.list.ordenacao.exercicio01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.estudo.collection.list.ordenacao.exercicio01" />
+      <option name="MAIN_CLASS_NAME" value="com.estudo.collection.list.ordenacao.exercicio01.OrdenacaoPessoasTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SomaNumerosTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="estudos-java-collections" />
       <extension name="coverage">
@@ -140,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.OrdenacaoPessoasTest" />
         <item itemvalue="JUnit.SomaNumerosTest" />
         <item itemvalue="JUnit.CatalogoLivrosTest" />
         <item itemvalue="JUnit.CatalogoLivrosTest.testAdicionarLivroCatalogoVazio" />
         <item itemvalue="JUnit.CarrinhoDeComprasTest" />
-        <item itemvalue="JUnit.CarrinhoDeComprasTest.testRemoverItemComCarrinhoVazio" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1722954366385</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="pesquisa - exercicio 02 finalizado">
+      <created>1722956401648</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1722956401648</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -217,6 +227,7 @@
     <MESSAGE value="operacaobasica - exercicio 01 finalizado" />
     <MESSAGE value="operacaobasica - exercicio 02 finalizado" />
     <MESSAGE value="pesquisa - exercicio 01 finalizado" />
-    <option name="LAST_COMMIT_MESSAGE" value="pesquisa - exercicio 01 finalizado" />
+    <MESSAGE value="pesquisa - exercicio 02 finalizado" />
+    <option name="LAST_COMMIT_MESSAGE" value="pesquisa - exercicio 02 finalizado" />
   </component>
 </project>

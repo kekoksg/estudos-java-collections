@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd5d2eaa-8557-44a8-ae99-8d508edd6b4a" name="Changes" comment="pesquisa - exercicio 02 finalizado">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/list/ordenacao/exercicio01/ComparatorPorAltura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/list/ordenacao/exercicio01/OrdenacaoPessoas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/list/ordenacao/exercicio01/Pessoa.java" afterDir="false" />
+    <list default="true" id="fd5d2eaa-8557-44a8-ae99-8d508edd6b4a" name="Changes" comment="ordenacao - exercicio 01 finalizado">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/list/ordenacao/exercicio02/OrdenacaoNumeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/list/ordenacao/exercicio02/OrdenacaoNumerosTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,22 +63,7 @@
       <recent name="C:\Users\kelvi\Desktop\projetos\estudos-java-collections\src\main\java\com\estudo\collection\list\exercicio01" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.OrdenacaoPessoasTest">
-    <configuration name="CarrinhoDeComprasTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="estudos-java-collections" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.estudo.collection.list.operacaobasica.exercicio02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.estudo.collection.list.operacaobasica.exercicio02" />
-      <option name="MAIN_CLASS_NAME" value="com.estudo.collection.list.operacaobasica.exercicio02.CarrinhoDeComprasTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.OrdenacaoNumerosTest">
     <configuration name="CatalogoLivrosTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="estudos-java-collections" />
       <extension name="coverage">
@@ -107,6 +91,21 @@
       <option name="MAIN_CLASS_NAME" value="com.estudo.collection.list.pesquisa.exercicio01.CatalogoLivrosTest" />
       <option name="METHOD_NAME" value="testAdicionarLivroCatalogoVazio" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrdenacaoNumerosTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="estudos-java-collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.estudo.collection.list.ordenacao.exercicio02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.estudo.collection.list.ordenacao.exercicio02" />
+      <option name="MAIN_CLASS_NAME" value="com.estudo.collection.list.ordenacao.exercicio02.OrdenacaoNumerosTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -143,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.OrdenacaoNumerosTest" />
         <item itemvalue="JUnit.OrdenacaoPessoasTest" />
         <item itemvalue="JUnit.SomaNumerosTest" />
         <item itemvalue="JUnit.CatalogoLivrosTest" />
         <item itemvalue="JUnit.CatalogoLivrosTest.testAdicionarLivroCatalogoVazio" />
-        <item itemvalue="JUnit.CarrinhoDeComprasTest" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1722956401648</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="ordenacao - exercicio 01 finalizado">
+      <created>1722981099387</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1722981099387</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -228,6 +234,7 @@
     <MESSAGE value="operacaobasica - exercicio 02 finalizado" />
     <MESSAGE value="pesquisa - exercicio 01 finalizado" />
     <MESSAGE value="pesquisa - exercicio 02 finalizado" />
-    <option name="LAST_COMMIT_MESSAGE" value="pesquisa - exercicio 02 finalizado" />
+    <MESSAGE value="ordenacao - exercicio 01 finalizado" />
+    <option name="LAST_COMMIT_MESSAGE" value="ordenacao - exercicio 01 finalizado" />
   </component>
 </project>

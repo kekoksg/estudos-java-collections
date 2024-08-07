@@ -4,11 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd5d2eaa-8557-44a8-ae99-8d508edd6b4a" name="Changes" comment="set - pesquisa: finalizado exercicio 01">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/set/pesquisa/exercicio02/ListaTarefas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/set/pesquisa/exercicio02/ListaTarefasTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/set/pesquisa/exercicio02/Tarefa.java" afterDir="false" />
+    <list default="true" id="fd5d2eaa-8557-44a8-ae99-8d508edd6b4a" name="Changes" comment="set - pesquisa: finalizado exercicio 02">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/estudo/collection/list/operacaobasica/exercicio01/Descricao.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/list/operacaobasica/exercicio01/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/estudo/collection/list/operacaobasica/exercicio02/Descricao.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/list/operacaobasica/exercicio02/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/estudo/collection/list/ordenacao/exercicio01/Descricao.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/list/ordenacao/exercicio01/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/estudo/collection/list/ordenacao/exercicio02/Descricao.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/list/ordenacao/exercicio02/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/estudo/collection/list/pesquisa/exercicio01/Descricao.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/list/pesquisa/exercicio01/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/estudo/collection/list/pesquisa/exercicio02/Descricao.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/list/pesquisa/exercicio02/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/estudo/collection/set/operacaobasica/exercicio02/descricao.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/set/operacaobasica/exercicio02/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/estudo/collection/set/ordenacao/exercicio01/descricao.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/set/ordenacao/exercicio01/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/estudo/collection/set/ordenacao/exercicio02/descricao.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/set/ordenacao/exercicio02/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/estudo/collection/set/pesquisa/exercicio01/descricao.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/set/pesquisa/exercicio01/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/estudo/collection/set/pesquisa/exercicio02/descricao.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/set/pesquisa/exercicio02/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -268,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1723036142106</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="set - pesquisa: finalizado exercicio 02">
+      <created>1723060130821</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1723060130821</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -287,17 +302,7 @@
     <MESSAGE value="set - operacaobasica: finalizado exercicio 01" />
     <MESSAGE value="set - operacaobasica: finalizado exercicio 02" />
     <MESSAGE value="set - pesquisa: finalizado exercicio 01" />
-    <option name="LAST_COMMIT_MESSAGE" value="set - pesquisa: finalizado exercicio 01" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/estudo/collection/set/pesquisa/exercicio02/ListaTarefasTest.java</url>
-          <line>77</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="set - pesquisa: finalizado exercicio 02" />
+    <option name="LAST_COMMIT_MESSAGE" value="set - pesquisa: finalizado exercicio 02" />
   </component>
 </project>

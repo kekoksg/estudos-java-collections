@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd5d2eaa-8557-44a8-ae99-8d508edd6b4a" name="Changes" comment="set - ordenacao: finalizado exercicio 02">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/map/operacaobasica/exercicio01/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/map/operacaobasica/exercicio02/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/map/ordenacao/exercicio01/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/map/ordenacao/exercicio02/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/map/pesquisa/exercicio01/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/map/pesquisa/exercicio02/readme.md" afterDir="false" />
+    <list default="true" id="fd5d2eaa-8557-44a8-ae99-8d508edd6b4a" name="Changes" comment="Add descricao dos exercicios no package map">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/map/operacaobasica/exercicio01/AgendaContatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/map/operacaobasica/exercicio01/AgendaContatosTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,17 +57,48 @@
       <recent name="com.estudo.collection.list.ordenacao.exercicio01" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\kelvi\Desktop\projetos\estudos-java-collections\src\main\java\com\estudo\collection\set\pesquisa\exercicio02" />
-      <recent name="C:\Users\kelvi\Desktop\projetos\estudos-java-collections\src\main\java\com\estudo\collection\set\pesquisa\exercicio01" />
-      <recent name="C:\Users\kelvi\Desktop\projetos\estudos-java-collections\src\main\java\com\estudo\collection\set\ordenacao\exercicio02" />
-      <recent name="C:\Users\kelvi\Desktop\projetos\estudos-java-collections\src\main\java\com\estudo\collection\set\ordenacao\exercicio01" />
-      <recent name="C:\Users\kelvi\Desktop\projetos\estudos-java-collections\src\main\java\com\estudo\collection\set\operacaobasica\exercicio02" />
+      <recent name="C:\Users\kelvi\Desktop\projetos\estudos-java-collections\src\main\java\com\estudo\collection\map\pesquisa\exercicio02" />
+      <recent name="C:\Users\kelvi\Desktop\projetos\estudos-java-collections\src\main\java\com\estudo\collection\map\pesquisa\exercicio01" />
+      <recent name="C:\Users\kelvi\Desktop\projetos\estudos-java-collections\src\main\java\com\estudo\collection\map\ordenacao\exercicio02" />
+      <recent name="C:\Users\kelvi\Desktop\projetos\estudos-java-collections\src\main\java\com\estudo\collection\map\ordenacao\exercicio01" />
+      <recent name="C:\Users\kelvi\Desktop\projetos\estudos-java-collections\src\main\java\com\estudo\collection\map\operacaobasica\exercicio02" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\kelvi\Desktop\projetos\estudos-java-collections\src\main\java\com\estudo\collection\list\exercicio01" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.GerenciadorAlunosTest">
+  <component name="RunManager" selected="JUnit.AgendaContatosTest">
+    <configuration name="AgendaContatosTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="estudos-java-collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.estudo.collection.map.operacaobasica.exercicio01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.estudo.collection.map.operacaobasica.exercicio01" />
+      <option name="MAIN_CLASS_NAME" value="com.estudo.collection.map.operacaobasica.exercicio01.AgendaContatosTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AgendaContatosTest.testPesquisarContatoComAgendaVazia" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="estudos-java-collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.estudo.collection.map.operacaobasica.exercicio01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.estudo.collection.map.operacaobasica.exercicio01" />
+      <option name="MAIN_CLASS_NAME" value="com.estudo.collection.map.operacaobasica.exercicio01.AgendaContatosTest" />
+      <option name="METHOD_NAME" value="testPesquisarContatoComAgendaVazia" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CadastroProdutosTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="estudos-java-collections" />
       <extension name="coverage">
@@ -117,44 +145,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListaTarefasTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="estudos-java-collections" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.estudo.collection.set.pesquisa.exercicio02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.estudo.collection.set.pesquisa.exercicio02" />
-      <option name="MAIN_CLASS_NAME" value="com.estudo.collection.set.pesquisa.exercicio02.ListaTarefasTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ListaTarefasTest.obterTarefasPendentes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="estudos-java-collections" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.estudo.collection.set.pesquisa.exercicio02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.estudo.collection.set.pesquisa.exercicio02" />
-      <option name="MAIN_CLASS_NAME" value="com.estudo.collection.set.pesquisa.exercicio02.ListaTarefasTest" />
-      <option name="METHOD_NAME" value="obterTarefasPendentes" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AgendaContatosTest" />
+        <item itemvalue="JUnit.AgendaContatosTest.testPesquisarContatoComAgendaVazia" />
         <item itemvalue="JUnit.GerenciadorAlunosTest" />
         <item itemvalue="JUnit.CadastroProdutosTest.exibirProdutosPorNome" />
         <item itemvalue="JUnit.CadastroProdutosTest" />
-        <item itemvalue="JUnit.ListaTarefasTest" />
-        <item itemvalue="JUnit.ListaTarefasTest.obterTarefasPendentes" />
       </list>
     </recent_temporary>
   </component>
@@ -300,7 +297,14 @@
       <option name="project" value="LOCAL" />
       <updated>1723138347965</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Add descricao dos exercicios no package map">
+      <created>1723139951677</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1723139951677</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -334,6 +338,7 @@
     <MESSAGE value="rename nos arquivos de descricao do exercicio para melhor visualização no github" />
     <MESSAGE value="set - ordenacao: finalizado exercicio 01" />
     <MESSAGE value="set - ordenacao: finalizado exercicio 02" />
-    <option name="LAST_COMMIT_MESSAGE" value="set - ordenacao: finalizado exercicio 02" />
+    <MESSAGE value="Add descricao dos exercicios no package map" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add descricao dos exercicios no package map" />
   </component>
 </project>

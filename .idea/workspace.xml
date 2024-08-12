@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd5d2eaa-8557-44a8-ae99-8d508edd6b4a" name="Changes" comment="map - operacaobasica: finalizado exercicio 02">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/map/pesquisa/exercicio01/EstoqueProdutos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/map/pesquisa/exercicio01/EstoqueProdutosTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/map/pesquisa/exercicio01/Produto.java" afterDir="false" />
+    <list default="true" id="fd5d2eaa-8557-44a8-ae99-8d508edd6b4a" name="Changes" comment="map - pesquisa: finalizado exercicio 01">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/map/pesquisa/exercicio02/ContagemPalavras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/map/pesquisa/exercicio02/ContagemPalavrasTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,15 +43,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/kelvi/Desktop/projetos/estudos-java-collections/src/main/java/com/estudo/collection/map/pesquisa/exercicio02",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kelvi/Desktop/projetos/estudos-java-collections/src/main/java/com/estudo/collection/map/pesquisa/exercicio02&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.estudo.collection.list.ordenacao.exercicio01" />
@@ -68,7 +67,7 @@
       <recent name="C:\Users\kelvi\Desktop\projetos\estudos-java-collections\src\main\java\com\estudo\collection\list\exercicio01" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.EstoqueProdutosTest">
+  <component name="RunManager" selected="JUnit.ContagemPalavrasTest">
     <configuration name="AgendaContatosTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="estudos-java-collections" />
       <extension name="coverage">
@@ -84,18 +83,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AgendaContatosTest.testPesquisarContatoComAgendaVazia" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ContagemPalavrasTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="estudos-java-collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.estudo.collection.map.operacaobasica.exercicio01.*" />
+          <option name="PATTERN" value="com.estudo.collection.map.pesquisa.exercicio02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.estudo.collection.map.operacaobasica.exercicio01" />
-      <option name="MAIN_CLASS_NAME" value="com.estudo.collection.map.operacaobasica.exercicio01.AgendaContatosTest" />
-      <option name="METHOD_NAME" value="testPesquisarContatoComAgendaVazia" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="com.estudo.collection.map.pesquisa.exercicio02" />
+      <option name="MAIN_CLASS_NAME" value="com.estudo.collection.map.pesquisa.exercicio02.ContagemPalavrasTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -148,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ContagemPalavrasTest" />
         <item itemvalue="JUnit.EstoqueProdutosTest" />
         <item itemvalue="JUnit.EstoqueProdutosTest.teste" />
         <item itemvalue="JUnit.DicionarioTest" />
         <item itemvalue="JUnit.AgendaContatosTest" />
-        <item itemvalue="JUnit.AgendaContatosTest.testPesquisarContatoComAgendaVazia" />
       </list>
     </recent_temporary>
   </component>
@@ -319,7 +317,14 @@
       <option name="project" value="LOCAL" />
       <updated>1723142569865</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="map - pesquisa: finalizado exercicio 01">
+      <created>1723163010395</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1723163010395</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -356,6 +361,7 @@
     <MESSAGE value="Add descricao dos exercicios no package map" />
     <MESSAGE value="map - operacaobasica: finalizado exercicio 01" />
     <MESSAGE value="map - operacaobasica: finalizado exercicio 02" />
-    <option name="LAST_COMMIT_MESSAGE" value="map - operacaobasica: finalizado exercicio 02" />
+    <MESSAGE value="map - pesquisa: finalizado exercicio 01" />
+    <option name="LAST_COMMIT_MESSAGE" value="map - pesquisa: finalizado exercicio 01" />
   </component>
 </project>

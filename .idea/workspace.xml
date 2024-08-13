@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd5d2eaa-8557-44a8-ae99-8d508edd6b4a" name="Changes" comment="map - pesquisa: finalizado exercicio 01">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/map/pesquisa/exercicio02/ContagemPalavras.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/map/pesquisa/exercicio02/ContagemPalavrasTest.java" afterDir="false" />
+    <list default="true" id="fd5d2eaa-8557-44a8-ae99-8d508edd6b4a" name="Changes" comment="map - pesquisa: finalizado exercicio 02">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/map/ordenacao/exercicio01/AgendaEventos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/map/ordenacao/exercicio01/AgendaEventosTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/map/ordenacao/exercicio01/Evento.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,18 +68,34 @@
       <recent name="C:\Users\kelvi\Desktop\projetos\estudos-java-collections\src\main\java\com\estudo\collection\list\exercicio01" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ContagemPalavrasTest">
-    <configuration name="AgendaContatosTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.AgendaEventosTest">
+    <configuration name="AgendaEventosTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="estudos-java-collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.estudo.collection.map.operacaobasica.exercicio01.*" />
+          <option name="PATTERN" value="com.estudo.collection.map.ordenacao.exercicio01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.estudo.collection.map.operacaobasica.exercicio01" />
-      <option name="MAIN_CLASS_NAME" value="com.estudo.collection.map.operacaobasica.exercicio01.AgendaContatosTest" />
+      <option name="PACKAGE_NAME" value="com.estudo.collection.map.ordenacao.exercicio01" />
+      <option name="MAIN_CLASS_NAME" value="com.estudo.collection.map.ordenacao.exercicio01.AgendaEventosTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AgendaEventosTest.testObterProximoEvento" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="estudos-java-collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.estudo.collection.map.ordenacao.exercicio01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.estudo.collection.map.ordenacao.exercicio01" />
+      <option name="MAIN_CLASS_NAME" value="com.estudo.collection.map.ordenacao.exercicio01.AgendaEventosTest" />
+      <option name="METHOD_NAME" value="testObterProximoEvento" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -93,21 +110,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.estudo.collection.map.pesquisa.exercicio02" />
       <option name="MAIN_CLASS_NAME" value="com.estudo.collection.map.pesquisa.exercicio02.ContagemPalavrasTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DicionarioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="estudos-java-collections" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.estudo.collection.map.operacaobasica.exercicio02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.estudo.collection.map.operacaobasica.exercicio02" />
-      <option name="MAIN_CLASS_NAME" value="com.estudo.collection.map.operacaobasica.exercicio02.DicionarioTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -146,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AgendaEventosTest" />
+        <item itemvalue="JUnit.AgendaEventosTest.testObterProximoEvento" />
         <item itemvalue="JUnit.ContagemPalavrasTest" />
         <item itemvalue="JUnit.EstoqueProdutosTest" />
         <item itemvalue="JUnit.EstoqueProdutosTest.teste" />
-        <item itemvalue="JUnit.DicionarioTest" />
-        <item itemvalue="JUnit.AgendaContatosTest" />
       </list>
     </recent_temporary>
   </component>
@@ -324,7 +326,14 @@
       <option name="project" value="LOCAL" />
       <updated>1723163010395</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="map - pesquisa: finalizado exercicio 02">
+      <created>1723505777721</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1723505777721</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -362,6 +371,7 @@
     <MESSAGE value="map - operacaobasica: finalizado exercicio 01" />
     <MESSAGE value="map - operacaobasica: finalizado exercicio 02" />
     <MESSAGE value="map - pesquisa: finalizado exercicio 01" />
-    <option name="LAST_COMMIT_MESSAGE" value="map - pesquisa: finalizado exercicio 01" />
+    <MESSAGE value="map - pesquisa: finalizado exercicio 02" />
+    <option name="LAST_COMMIT_MESSAGE" value="map - pesquisa: finalizado exercicio 02" />
   </component>
 </project>

@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd5d2eaa-8557-44a8-ae99-8d508edd6b4a" name="Changes" comment="map - pesquisa: finalizado exercicio 02">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/map/ordenacao/exercicio01/AgendaEventos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/map/ordenacao/exercicio01/AgendaEventosTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/map/ordenacao/exercicio01/Evento.java" afterDir="false" />
+    <list default="true" id="fd5d2eaa-8557-44a8-ae99-8d508edd6b4a" name="Changes" comment="map - ordenacao: finalizado exercicio 02">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/map/ordenacao/exercicio02/LivrariaOnline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/map/ordenacao/exercicio02/LivrariaOnlineTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/estudo/collection/map/ordenacao/exercicio02/Livro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +68,7 @@
       <recent name="C:\Users\kelvi\Desktop\projetos\estudos-java-collections\src\main\java\com\estudo\collection\list\exercicio01" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AgendaEventosTest">
+  <component name="RunManager" selected="JUnit.LivrariaOnlineTest">
     <configuration name="AgendaEventosTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="estudos-java-collections" />
       <extension name="coverage">
@@ -100,47 +100,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContagemPalavrasTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LivrariaOnlineTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="estudos-java-collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.estudo.collection.map.pesquisa.exercicio02.*" />
+          <option name="PATTERN" value="com.estudo.collection.map.ordenacao.exercicio02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.estudo.collection.map.pesquisa.exercicio02" />
-      <option name="MAIN_CLASS_NAME" value="com.estudo.collection.map.pesquisa.exercicio02.ContagemPalavrasTest" />
+      <option name="PACKAGE_NAME" value="com.estudo.collection.map.ordenacao.exercicio02" />
+      <option name="MAIN_CLASS_NAME" value="com.estudo.collection.map.ordenacao.exercicio02.LivrariaOnlineTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EstoqueProdutosTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LivrariaOnlineTest.testAdicionarLivro" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="estudos-java-collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.estudo.collection.map.pesquisa.exercicio01.*" />
+          <option name="PATTERN" value="com.estudo.collection.map.ordenacao.exercicio02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.estudo.collection.map.pesquisa.exercicio01" />
-      <option name="MAIN_CLASS_NAME" value="com.estudo.collection.map.pesquisa.exercicio01.EstoqueProdutosTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="com.estudo.collection.map.ordenacao.exercicio02" />
+      <option name="MAIN_CLASS_NAME" value="com.estudo.collection.map.ordenacao.exercicio02.LivrariaOnlineTest" />
+      <option name="METHOD_NAME" value="testAdicionarLivro" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EstoqueProdutosTest.teste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LivrariaOnlineTest.testObterLivroMaisCaro" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="estudos-java-collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.estudo.collection.map.pesquisa.exercicio01.*" />
+          <option name="PATTERN" value="com.estudo.collection.map.ordenacao.exercicio02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.estudo.collection.map.pesquisa.exercicio01" />
-      <option name="MAIN_CLASS_NAME" value="com.estudo.collection.map.pesquisa.exercicio01.EstoqueProdutosTest" />
-      <option name="METHOD_NAME" value="teste" />
+      <option name="PACKAGE_NAME" value="com.estudo.collection.map.ordenacao.exercicio02" />
+      <option name="MAIN_CLASS_NAME" value="com.estudo.collection.map.ordenacao.exercicio02.LivrariaOnlineTest" />
+      <option name="METHOD_NAME" value="testObterLivroMaisCaro" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -148,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LivrariaOnlineTest" />
+        <item itemvalue="JUnit.LivrariaOnlineTest.testAdicionarLivro" />
+        <item itemvalue="JUnit.LivrariaOnlineTest.testObterLivroMaisCaro" />
         <item itemvalue="JUnit.AgendaEventosTest" />
         <item itemvalue="JUnit.AgendaEventosTest.testObterProximoEvento" />
-        <item itemvalue="JUnit.ContagemPalavrasTest" />
-        <item itemvalue="JUnit.EstoqueProdutosTest" />
-        <item itemvalue="JUnit.EstoqueProdutosTest.teste" />
       </list>
     </recent_temporary>
   </component>
@@ -333,7 +334,14 @@
       <option name="project" value="LOCAL" />
       <updated>1723505777721</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="map - ordenacao: finalizado exercicio 01">
+      <created>1723560273493</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1723560273493</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -348,7 +356,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="primeiro commit" />
     <MESSAGE value="Add exercicios operacaobasica" />
     <MESSAGE value="Add exercicios ordenacao" />
     <MESSAGE value="Add exercicios pesquisa" />
@@ -372,6 +379,8 @@
     <MESSAGE value="map - operacaobasica: finalizado exercicio 02" />
     <MESSAGE value="map - pesquisa: finalizado exercicio 01" />
     <MESSAGE value="map - pesquisa: finalizado exercicio 02" />
-    <option name="LAST_COMMIT_MESSAGE" value="map - pesquisa: finalizado exercicio 02" />
+    <MESSAGE value="map - ordenacao: finalizado exercicio 01" />
+    <MESSAGE value="map - ordenacao: finalizado exercicio 02" />
+    <option name="LAST_COMMIT_MESSAGE" value="map - ordenacao: finalizado exercicio 02" />
   </component>
 </project>
